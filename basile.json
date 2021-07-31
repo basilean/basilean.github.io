@@ -1,0 +1,62 @@
+{
+    "title": "Basile Co.",
+    "description": "We do not re-invent the wheel, we just make it spin faster.",
+    "langs": {
+        "en": "i18n/en.json",
+        "es": "i18n/es.json",
+        "pt": "i18n/pt.json",
+        "it": "i18n/it.json",
+        "cn": "i18n/cn.json"
+    },
+    "sections": {
+        "us": {
+            "title": "us_title",
+            "speed": 3000,
+            "items": [
+                ["", "us_tux_graduation"],
+                ["", "us_tux_surgeon"],
+                ["", "us_tux_soldier"],
+                ["", "us_tux_nurse"],
+                ["", "us_tux_santa"]
+            ]
+        },
+        "deploy": {
+            "title": "deploy_title",
+            "speed": 10000,
+            "items": [
+                ["deploy_0", ""],
+                ["deploy_1", ""],
+                ["deploy_2", ""],
+                ["deploy_3", ""],
+                ["deploy_4", ""],
+                ["deploy_5", ""],
+                ["deploy_6", ""],
+                ["deploy_7", ""]
+            ]
+        },
+        "service": {
+            "title": "service_title",
+            "speed": 5000,
+            "items": [
+                ["", "service_1"],
+                ["", "service_2"]
+            ]
+        },
+        "support": {
+            "title": "support_title",
+            "speed": 4000,
+            "items": {
+                "monthly": {
+                    "title": "",
+                    "bg": "",
+                    "left": [
+                        { "bg": "", "text": "" }
+                    ],
+                    "right": [
+                        { "bg": "", "text": "" }
+                    ]
+                }
+            }
+        }
+    }
+}

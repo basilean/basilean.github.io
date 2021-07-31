@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="46.700cm" height="39.493cm" viewBox="0.600 0.350 46.700 39.493"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Layer: Background -->
+<g id="Background">
+<!-- Network - Cloud -->
+<path stroke="#000000" fill="#59D48F" stroke-width="0.050"  d="M 4.879,4.464 C 3.308,4.411 0.263,5.527 0.691,7.920 C 1.119,10.312 3.166,10.844 4.022,10.153 C 4.879,9.461 2.690,13.502 6.878,14.565 C 11.066,15.628 13.208,13.927 12.589,12.704 C 11.970,11.482 16.253,15.575 18.252,13.236 C 20.251,10.897 16.206,8.664 17.063,8.983 C 17.919,9.302 20.537,8.877 19.680,4.889 C 18.823,0.902 11.113,3.986 11.970,3.401 C 12.827,2.816 10.685,-0.108 8.020,0.477 C 5.355,1.062 5.166,2.123 4.880,4.462 L 4.879,4.464 z"/>
+<text x="10.943" y="8.390"  fill="#000000" text-anchor="middle" font-size="1.41" font-family="sans" font-style="normal" font-weight="400">
+3</text>
+<!-- Network - Cloud -->
+<path stroke="#000000" fill="#86A7D4" stroke-width="0.050"  d="M 34.712,4.175 C 33.816,4.139 32.079,4.901 32.323,6.534 C 32.568,8.168 33.735,8.531 34.223,8.059 C 34.712,7.587 33.463,10.345 35.852,11.071 C 38.240,11.797 39.462,10.636 39.109,9.801 C 38.756,8.966 41.199,11.761 42.339,10.164 C 43.479,8.567 41.172,7.042 41.660,7.260 C 42.149,7.478 43.642,7.188 43.153,4.465 C 42.665,1.743 38.267,3.848 38.756,3.449 C 39.245,3.050 38.023,1.053 36.503,1.453 C 34.983,1.852 34.875,2.576 34.713,4.173 L 34.712,4.175 z"/>
+<text x="38.170" y="7.038"  fill="#000000" text-anchor="middle" font-size="1.69" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<!-- Network - Cloud -->
+<path stroke="#000000" fill="#ECDC88" stroke-width="0.050"  d="M 22.853,14.520 C 21.144,14.466 17.828,15.598 18.294,18.023 C 18.761,20.449 20.988,20.988 21.921,20.287 C 22.853,19.586 20.470,23.683 25.029,24.760 C 29.588,25.838 31.919,24.114 31.246,22.874 C 30.572,21.635 35.235,25.785 37.411,23.413 C 39.587,21.042 35.183,18.778 36.116,19.101 C 37.048,19.425 39.898,18.994 38.965,14.951 C 38.033,10.909 29.640,14.035 30.572,13.442 C 31.505,12.849 29.174,9.885 26.273,10.478 C 23.371,11.071 23.166,12.147 22.855,14.518 L 22.853,14.520 z"/>
+<text x="29.454" y="18.496"  fill="#000000" text-anchor="middle" font-size="1.41" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<!-- Network - General Computer (Tower) -->
+<rect x="35.610" y="4.100" width="1.943" height="4.534" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<rect x="35.804" y="4.372" width="1.555" height="0.518" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="35.804" y="4.890" width="1.555" height="0.518" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="35.804" y="5.408" width="1.555" height="0.518" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="35.804" y="5.927" width="1.555" height="0.518" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="35.804" y="6.548" width="0.972" height="0.311" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<ellipse cx="37.261" cy="6.600" rx="0.068" ry="0.068" fill="#00FF00" stroke="#000000"  stroke-width="0.005" />
+<ellipse cx="37.261" cy="6.807" rx="0.068" ry="0.068" fill="#FFFF00" stroke="#000000"  stroke-width="0.005" />
+<rect x="36.873" y="6.652" width="0.233" height="0.207" fill="#FFFFFF" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 35.934,7.274 L 35.934,8.407 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 36.257,7.274 L 36.257,8.407 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 36.581,7.274 L 36.581,8.407 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 36.905,7.274 L 36.905,8.407 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 37.229,7.274 L 37.229,8.407 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 37.553,7.274 L 37.553,8.407 "/>
+<polygon fill="#999999" stroke="#000000" stroke-width="0.005"  points="35.221,9.023 35.610,8.245 35.610,8.634 37.553,8.634 37.553,8.245 38.071,9.023 "/>
+<text x="36.646" y="9.752"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2a</text>
+<!-- Network - Modem -->
+<polygon fill="none" stroke="#000000" stroke-width="0.080"  points="11.450,16.749 12.290,16.749 12.850,16.516 14.250,16.516 14.684,16.749 15.650,16.749 15.650,17.683 11.450,17.683 "/>
+<rect x="11.660" y="16.866" width="3.780" height="0.700" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<ellipse cx="12.122" cy="17.216" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="13.046" cy="17.216" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="14.012" cy="17.216" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="14.936" cy="17.216" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<text x="13.550" y="18.656"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3a</text>
+<!-- Standard - Line -->
+<line x1="16.208" y1="17.221" x2="17.718" y2="17.291" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="16.219,16.972 15.708,17.198 16.196,17.471 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="17.706,17.541 18.217,17.314 17.729,17.041 "/>
+<!-- Standard - Line -->
+<line x1="32.366" y1="12.757" x2="35.291" y2="8.523" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="32.160,12.615 32.082,13.168 32.571,12.899 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="35.497,8.665 35.575,8.111 35.085,8.381 "/>
+<!-- Network - Hub -->
+<rect x="13.327" y="5.150" width="4.545" height="2.000" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<rect x="13.782" y="5.832" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="14.236" y="5.832" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="14.691" y="5.832" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="15.145" y="5.832" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="15.600" y="5.832" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="16.055" y="5.832" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="16.509" y="5.832" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="16.964" y="5.832" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<text x="15.600" y="7.841"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3b</text>
+<!-- Network - General Computer (Tower) -->
+<rect x="7.437" y="1.800" width="1.582" height="3.690" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<rect x="7.596" y="2.021" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="7.596" y="2.443" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="7.596" y="2.865" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="7.596" y="3.287" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="7.596" y="3.793" width="0.791" height="0.253" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<ellipse cx="8.782" cy="3.835" rx="0.055" ry="0.055" fill="#00FF00" stroke="#000000"  stroke-width="0.005" />
+<ellipse cx="8.782" cy="4.004" rx="0.055" ry="0.055" fill="#FFFF00" stroke="#000000"  stroke-width="0.005" />
+<rect x="8.465" y="3.877" width="0.190" height="0.169" fill="#FFFFFF" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 7.701,4.383 L 7.701,5.306 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 7.965,4.383 L 7.965,5.306 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 8.228,4.383 L 8.228,5.306 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 8.492,4.383 L 8.492,5.306 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 8.755,4.383 L 8.755,5.306 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 9.019,4.383 L 9.019,5.306 "/>
+<polygon fill="#999999" stroke="#000000" stroke-width="0.005"  points="7.121,5.807 7.437,5.174 7.437,5.490 9.019,5.490 9.019,5.174 9.441,5.807 "/>
+<text x="8.281" y="6.512"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3c</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="9.533" y="11.300" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="9.753" y="11.520" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="9.808,12.825 10.855,12.825 10.855,13.063 9.864,13.063 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="10.855,12.825 11.292,12.825 11.236,13.063 10.855,13.063 "/>
+<rect x="10.926" y="12.897" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="10.347,13.063 10.753,13.063 10.753,13.181 10.957,13.181 10.957,13.300 10.143,13.300 10.143,13.181 10.347,13.181 "/>
+<text x="10.550" y="13.968"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="2.883" y="7.200" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="3.103" y="7.420" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="3.158,8.725 4.205,8.725 4.205,8.963 3.214,8.963 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="4.205,8.725 4.642,8.725 4.586,8.963 4.205,8.963 "/>
+<rect x="4.276" y="8.797" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="3.697,8.963 4.103,8.963 4.103,9.081 4.307,9.081 4.307,9.200 3.493,9.200 3.493,9.081 3.697,9.081 "/>
+<text x="3.900" y="9.868"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="5.883" y="10.150" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="6.103" y="10.370" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="6.158,11.675 7.205,11.675 7.205,11.913 6.214,11.913 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="7.205,11.675 7.642,11.675 7.586,11.913 7.205,11.913 "/>
+<rect x="7.276" y="11.747" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="6.697,11.913 7.103,11.913 7.103,12.031 7.307,12.031 7.307,12.150 6.493,12.150 6.493,12.031 6.697,12.031 "/>
+<text x="6.900" y="12.818"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Standard - Line -->
+<line x1="15.158" y1="8.510" x2="13.763" y2="15.960" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="15.404,8.556 15.250,8.018 14.913,8.464 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="13.518,15.914 13.671,16.451 14.009,16.006 "/>
+<!-- Standard - Line -->
+<line x1="12.807" y1="5.255" x2="9.539" y2="4.207" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="12.731,5.493 13.283,5.407 12.883,5.016 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="9.615,3.969 9.063,4.054 9.463,4.445 "/>
+<!-- Standard - Line -->
+<line x1="5.446" y1="7.929" x2="12.790" y2="6.642" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="5.403,7.683 4.954,8.015 5.489,8.175 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="12.833,6.889 13.283,6.556 12.747,6.396 "/>
+<!-- Standard - Line -->
+<line x1="11.715" y1="10.882" x2="14.433" y2="7.571" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="11.522,10.723 11.397,11.268 11.908,11.040 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="14.627,7.729 14.751,7.184 14.240,7.412 "/>
+<!-- Standard - Line -->
+<line x1="8.384" y1="10.297" x2="13.373" y2="7.430" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="8.260,10.080 7.951,10.546 8.509,10.514 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="13.498,7.646 13.807,7.181 13.249,7.213 "/>
+<!-- Network - Cloud -->
+<path stroke="#000000" fill="#59D48F" stroke-width="0.050"  d="M 5.154,28.478 C 3.583,28.424 0.538,29.541 0.966,31.933 C 1.394,34.325 3.441,34.857 4.297,34.166 C 5.154,33.475 2.965,37.515 7.153,38.579 C 11.341,39.642 13.483,37.941 12.864,36.718 C 12.245,35.495 16.528,39.589 18.527,37.249 C 20.526,34.910 16.481,32.677 17.338,32.996 C 18.194,33.315 20.812,32.890 19.955,28.903 C 19.098,24.916 11.388,27.999 12.245,27.414 C 13.102,26.829 10.960,23.905 8.295,24.490 C 5.630,25.075 5.441,26.136 5.155,28.475 L 5.154,28.478 z"/>
+<text x="11.218" y="32.404"  fill="#000000" text-anchor="middle" font-size="1.41" font-family="sans" font-style="normal" font-weight="400">
+3</text>
+<!-- Network - Modem -->
+<polygon fill="none" stroke="#000000" stroke-width="0.080"  points="12.175,22.263 13.015,22.263 13.575,22.029 14.975,22.029 15.409,22.263 16.375,22.263 16.375,23.196 12.175,23.196 "/>
+<rect x="12.385" y="22.379" width="3.780" height="0.700" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<ellipse cx="12.847" cy="22.729" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="13.771" cy="22.729" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="14.737" cy="22.729" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="15.661" cy="22.729" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<text x="14.275" y="24.169"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3a</text>
+<!-- Standard - Line -->
+<line x1="15.959" y1="22.058" x2="20.051" y2="20.711" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="15.881,21.821 15.484,22.214 16.037,22.295 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="20.129,20.948 20.526,20.554 19.973,20.473 "/>
+<!-- Network - Hub -->
+<rect x="13.552" y="29.363" width="4.545" height="2.000" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<rect x="14.007" y="30.045" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="14.461" y="30.045" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="14.916" y="30.045" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="15.370" y="30.045" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="15.825" y="30.045" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="16.280" y="30.045" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="16.734" y="30.045" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="17.189" y="30.045" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<text x="15.825" y="32.054"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3b</text>
+<!-- Network - General Computer (Tower) -->
+<rect x="7.962" y="25.763" width="1.582" height="3.690" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<rect x="8.121" y="25.985" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="8.121" y="26.407" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="8.121" y="26.828" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="8.121" y="27.250" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="8.121" y="27.756" width="0.791" height="0.253" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<ellipse cx="9.307" cy="27.798" rx="0.055" ry="0.055" fill="#00FF00" stroke="#000000"  stroke-width="0.005" />
+<ellipse cx="9.307" cy="27.967" rx="0.055" ry="0.055" fill="#FFFF00" stroke="#000000"  stroke-width="0.005" />
+<rect x="8.990" y="27.841" width="0.190" height="0.169" fill="#FFFFFF" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 8.226,28.347 L 8.226,29.269 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 8.490,28.347 L 8.490,29.269 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 8.753,28.347 L 8.753,29.269 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 9.017,28.347 L 9.017,29.269 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 9.280,28.347 L 9.280,29.269 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 9.544,28.347 L 9.544,29.269 "/>
+<polygon fill="#999999" stroke="#000000" stroke-width="0.005"  points="7.646,29.770 7.962,29.138 7.962,29.454 9.544,29.454 9.544,29.138 9.966,29.770 "/>
+<text x="8.806" y="30.476"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3c</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="9.508" y="35.613" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="9.728" y="35.834" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="9.783,37.139 10.830,37.139 10.830,37.376 9.839,37.376 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="10.830,37.139 11.267,37.139 11.211,37.376 10.830,37.376 "/>
+<rect x="10.901" y="37.210" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="10.322,37.376 10.728,37.376 10.728,37.495 10.932,37.495 10.932,37.613 10.118,37.613 10.118,37.495 10.322,37.495 "/>
+<text x="10.525" y="38.281"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="3.158" y="31.213" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="3.378" y="31.434" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="3.433,32.739 4.480,32.739 4.480,32.976 3.489,32.976 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="4.480,32.739 4.917,32.739 4.861,32.976 4.480,32.976 "/>
+<rect x="4.551" y="32.810" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="3.972,32.976 4.378,32.976 4.378,33.095 4.582,33.095 4.582,33.213 3.768,33.213 3.768,33.095 3.972,33.095 "/>
+<text x="4.175" y="33.881"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="5.808" y="33.813" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="6.028" y="34.034" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="6.083,35.339 7.130,35.339 7.130,35.576 6.139,35.576 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="7.130,35.339 7.567,35.339 7.511,35.576 7.130,35.576 "/>
+<rect x="7.201" y="35.410" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="6.622,35.576 7.028,35.576 7.028,35.695 7.232,35.695 7.232,35.813 6.418,35.813 6.418,35.695 6.622,35.695 "/>
+<text x="6.825" y="36.481"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Standard - Line -->
+<line x1="15.518" y1="28.828" x2="14.720" y2="24.837" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="15.273,28.877 15.616,29.318 15.763,28.779 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="14.965,24.788 14.622,24.346 14.475,24.886 "/>
+<!-- Standard - Line -->
+<line x1="13.041" y1="29.334" x2="10.056" y2="28.229" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="12.955,29.568 13.510,29.507 13.128,29.099 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="10.143,27.995 9.587,28.056 9.969,28.464 "/>
+<!-- Standard - Line -->
+<line x1="5.720" y1="31.968" x2="13.014" y2="30.810" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="5.681,31.721 5.226,32.046 5.759,32.215 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="13.053,31.057 13.508,30.731 12.974,30.563 "/>
+<!-- Standard - Line -->
+<line x1="11.719" y1="35.206" x2="14.620" y2="31.784" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="11.528,35.044 11.395,35.587 11.909,35.368 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="14.811,31.946 14.944,31.403 14.430,31.622 "/>
+<!-- Standard - Line -->
+<line x1="8.325" y1="34.072" x2="13.292" y2="31.616" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="8.215,33.847 7.877,34.293 8.436,34.296 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="13.403,31.840 13.740,31.394 13.181,31.392 "/>
+<!-- Network - Cloud -->
+<path stroke="#000000" fill="#59D48F" stroke-width="0.050"  d="M 32.279,29.358 C 30.708,29.304 27.663,30.421 28.091,32.813 C 28.519,35.205 30.566,35.737 31.422,35.046 C 32.279,34.355 30.090,38.395 34.278,39.459 C 38.466,40.522 40.608,38.821 39.989,37.598 C 39.370,36.375 43.653,40.469 45.652,38.129 C 47.651,35.790 43.606,33.557 44.463,33.876 C 45.319,34.195 47.937,33.770 47.080,29.783 C 46.223,25.796 38.513,28.879 39.370,28.294 C 40.227,27.709 38.085,24.785 35.420,25.370 C 32.755,25.955 32.566,27.016 32.280,29.355 L 32.279,29.358 z"/>
+<text x="38.343" y="33.284"  fill="#000000" text-anchor="middle" font-size="1.41" font-family="sans" font-style="normal" font-weight="400">
+3</text>
+<!-- Network - Modem -->
+<polygon fill="none" stroke="#000000" stroke-width="0.080"  points="40.150,22.793 40.990,22.793 41.550,22.559 42.950,22.559 43.384,22.793 44.350,22.793 44.350,23.726 40.150,23.726 "/>
+<rect x="40.360" y="22.909" width="3.780" height="0.700" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<ellipse cx="40.822" cy="23.259" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="41.746" cy="23.259" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="42.712" cy="23.259" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<ellipse cx="43.636" cy="23.259" rx="0.233" ry="0.233" fill="#FFFFFF" stroke="#000000"  stroke-width="0.040" />
+<text x="42.250" y="24.699"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3a</text>
+<!-- Standard - Line -->
+<line x1="40.638" y1="22.499" x2="38.436" y2="21.619" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="40.545,22.731 41.102,22.684 40.731,22.267 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="38.528,21.387 37.971,21.434 38.343,21.852 "/>
+<!-- Network - Hub -->
+<rect x="40.477" y="29.943" width="4.545" height="2.000" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<rect x="40.932" y="30.625" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="41.386" y="30.625" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="41.841" y="30.625" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="42.295" y="30.625" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="42.750" y="30.625" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="43.205" y="30.625" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="43.659" y="30.625" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<rect x="44.114" y="30.625" width="0.227" height="0.218" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<text x="42.750" y="32.634"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3b</text>
+<!-- Network - General Computer (Tower) -->
+<rect x="35.387" y="26.843" width="1.582" height="3.690" fill="#B3B3B3" stroke="#000000" stroke-width="0.040"  rx="0.000" />
+<rect x="35.546" y="27.065" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="35.546" y="27.487" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="35.546" y="27.908" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="35.546" y="28.330" width="1.265" height="0.422" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<rect x="35.546" y="28.836" width="0.791" height="0.253" fill="none" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<ellipse cx="36.732" cy="28.878" rx="0.055" ry="0.055" fill="#00FF00" stroke="#000000"  stroke-width="0.005" />
+<ellipse cx="36.732" cy="29.047" rx="0.055" ry="0.055" fill="#FFFF00" stroke="#000000"  stroke-width="0.005" />
+<rect x="36.415" y="28.921" width="0.190" height="0.169" fill="#FFFFFF" stroke="#000000" stroke-width="0.005"  rx="0.000" />
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 35.651,29.427 L 35.651,30.349 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 35.915,29.427 L 35.915,30.349 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 36.178,29.427 L 36.178,30.349 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 36.442,29.427 L 36.442,30.349 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 36.705,29.427 L 36.705,30.349 "/>
+<path stroke="#000000" fill="none" stroke-width="0.005"  d="M 36.969,29.427 L 36.969,30.349 "/>
+<polygon fill="#999999" stroke="#000000" stroke-width="0.005"  points="35.071,30.850 35.387,30.218 35.387,30.534 36.969,30.534 36.969,30.218 37.391,30.850 "/>
+<text x="36.231" y="31.556"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3c</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="36.833" y="36.493" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="37.053" y="36.714" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="37.109,38.019 38.155,38.019 38.155,38.256 37.164,38.256 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="38.155,38.019 38.592,38.019 38.536,38.256 38.155,38.256 "/>
+<rect x="38.226" y="38.090" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="37.647,38.256 38.053,38.256 38.053,38.375 38.257,38.375 38.257,38.493 37.443,38.493 37.443,38.375 37.647,38.375 "/>
+<text x="37.850" y="39.161"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="30.283" y="32.093" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="30.503" y="32.314" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="30.559,33.619 31.605,33.619 31.605,33.856 30.614,33.856 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="31.605,33.619 32.042,33.619 31.986,33.856 31.605,33.856 "/>
+<rect x="31.676" y="33.690" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="31.097,33.856 31.503,33.856 31.503,33.975 31.707,33.975 31.707,34.093 30.893,34.093 30.893,33.975 31.097,33.975 "/>
+<text x="31.300" y="34.761"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Network - General Monitor (With Stand) -->
+<rect x="33.383" y="35.043" width="2.034" height="1.525" fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  rx="0.000" />
+<rect x="33.603" y="35.264" width="1.593" height="1.051" fill="#000000" stroke="none" stroke-width="0.050"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="33.659,36.569 34.705,36.569 34.705,36.806 33.714,36.806 "/>
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="34.705,36.569 35.142,36.569 35.086,36.806 34.705,36.806 "/>
+<rect x="34.776" y="36.640" width="0.095" height="0.095" fill="#FFFFFF" stroke="#000000" stroke-width="0.013"  rx="0.000" />
+<polygon fill="#B3B3B3" stroke="#000000" stroke-width="0.025"  points="34.197,36.806 34.603,36.806 34.603,36.925 34.807,36.925 34.807,37.043 33.993,37.043 33.993,36.925 34.197,36.925 "/>
+<text x="34.400" y="37.711"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+3d</text>
+<!-- Standard - Line -->
+<line x1="42.651" y1="29.406" x2="42.393" y2="25.375" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="42.402,29.422 42.683,29.905 42.901,29.390 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="42.643,25.359 42.361,24.876 42.144,25.391 "/>
+<!-- Standard - Line -->
+<line x1="39.958" y1="30.045" x2="37.489" y2="29.251" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="39.881,30.283 40.434,30.198 40.034,29.807 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="37.565,29.013 37.013,29.098 37.412,29.489 "/>
+<!-- Standard - Line -->
+<line x1="32.845" y1="32.803" x2="39.941" y2="31.471" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="32.799,32.558 32.354,32.895 32.892,33.049 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="39.987,31.717 40.433,31.379 39.895,31.225 "/>
+<!-- Standard - Line -->
+<line x1="38.922" y1="36.060" x2="41.674" y2="32.382" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="38.722,35.911 38.623,36.461 39.122,36.210 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="41.874,32.532 41.973,31.982 41.473,32.233 "/>
+<!-- Standard - Line -->
+<line x1="35.877" y1="35.142" x2="40.634" y2="32.236" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="35.746,34.928 35.450,35.402 36.007,35.355 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="40.765,32.449 41.061,31.975 40.504,32.022 "/>
+<!-- Standard - BezierLine -->
+<path stroke="#86A7D4" fill="none" stroke-width="0.200"  d="M 19.147,27.576 C 27.657,23.410 27.874,9.635 32.993,7.971 "/>
+<path stroke="#86A7D4" fill="#86A7D4" stroke-width="0.200"  d="M 19.147,27.576 C 19.092,27.464 19.149,27.297 19.261,27.242 C 19.373,27.187 19.541,27.244 19.596,27.356 C 19.651,27.469 19.593,27.636 19.481,27.691 C 19.369,27.746 19.202,27.688 19.147,27.576 z"/>
+<path stroke="#86A7D4" fill="#86A7D4" stroke-width="0.200"  d="M 32.993,7.971 C 33.031,8.090 32.951,8.248 32.832,8.286 C 32.713,8.325 32.556,8.245 32.517,8.126 C 32.478,8.007 32.559,7.849 32.677,7.811 C 32.796,7.772 32.954,7.852 32.993,7.971 z"/>
+<!-- Standard - BezierLine -->
+<path stroke="#59D48F" fill="none" stroke-width="0.400"  d="M 19.722,28.324 C 31.082,24.058 22.968,19.495 32.482,27.891 "/>
+<path stroke="#59D48F" fill="#59D48F" stroke-width="0.400"  d="M 19.722,28.324 C 19.678,28.207 19.751,28.046 19.868,28.002 C 19.985,27.958 20.146,28.031 20.190,28.148 C 20.234,28.266 20.161,28.426 20.044,28.470 C 19.927,28.514 19.766,28.441 19.722,28.324 z"/>
+<path stroke="#59D48F" fill="#59D48F" stroke-width="0.400"  d="M 32.482,27.891 C 32.400,27.984 32.223,27.995 32.130,27.913 C 32.036,27.830 32.025,27.654 32.108,27.560 C 32.190,27.466 32.367,27.455 32.460,27.538 C 32.554,27.621 32.565,27.797 32.482,27.891 z"/>
+<!-- Standard - BezierLine -->
+<path stroke="#86A7D4" fill="none" stroke-width="0.200"  d="M 32.992,26.624 C 27.827,20.228 32.633,9.724 34.302,8.660 "/>
+<path stroke="#86A7D4" fill="#86A7D4" stroke-width="0.200"  d="M 32.992,26.624 C 32.895,26.702 32.719,26.684 32.641,26.586 C 32.562,26.489 32.581,26.313 32.678,26.235 C 32.775,26.156 32.951,26.175 33.030,26.272 C 33.108,26.369 33.089,26.545 32.992,26.624 z"/>
+<path stroke="#86A7D4" fill="#86A7D4" stroke-width="0.200"  d="M 34.302,8.660 C 34.370,8.765 34.331,8.938 34.226,9.005 C 34.121,9.072 33.948,9.034 33.881,8.929 C 33.814,8.823 33.852,8.651 33.957,8.583 C 34.063,8.516 34.235,8.554 34.302,8.660 z"/>
+<!-- Standard - BezierLine -->
+<path stroke="#86A7D4" fill="none" stroke-width="0.200"  d="M 18.619,11.041 C 34.954,17.689 23.181,6.386 32.296,6.386 "/>
+<path stroke="#86A7D4" fill="#86A7D4" stroke-width="0.200"  d="M 18.619,11.041 C 18.666,10.926 18.829,10.857 18.945,10.904 C 19.061,10.951 19.129,11.114 19.082,11.230 C 19.035,11.346 18.872,11.414 18.757,11.367 C 18.641,11.320 18.572,11.157 18.619,11.041 z"/>
+<path stroke="#86A7D4" fill="#86A7D4" stroke-width="0.200"  d="M 32.296,6.386 C 32.296,6.511 32.171,6.636 32.046,6.636 C 31.921,6.636 31.796,6.511 31.796,6.386 C 31.796,6.261 31.921,6.136 32.046,6.136 C 32.171,6.136 32.296,6.261 32.296,6.386 z"/>
+<!-- Standard - BezierLine -->
+<path stroke="#59D48F" fill="none" stroke-width="0.400"  d="M 34.402,25.648 C 31.188,19.102 28.420,10.182 18.635,8.835 "/>
+<path stroke="#59D48F" fill="#59D48F" stroke-width="0.400"  d="M 34.402,25.648 C 34.290,25.703 34.123,25.646 34.068,25.534 C 34.013,25.421 34.070,25.254 34.182,25.199 C 34.294,25.144 34.462,25.201 34.517,25.313 C 34.572,25.425 34.515,25.593 34.402,25.648 z"/>
+<path stroke="#59D48F" fill="#59D48F" stroke-width="0.400"  d="M 18.635,8.835 C 18.652,8.711 18.793,8.604 18.917,8.621 C 19.041,8.638 19.148,8.779 19.131,8.903 C 19.113,9.027 18.973,9.133 18.849,9.116 C 18.725,9.099 18.618,8.958 18.635,8.835 z"/>
+<!-- Standard - BezierLine -->
+<path stroke="#59D48F" fill="none" stroke-width="0.400"  d="M 17.260,26.865 C 22.970,22.649 27.905,18.564 18.570,12.767 "/>
+<path stroke="#59D48F" fill="#59D48F" stroke-width="0.400"  d="M 17.260,26.865 C 17.186,26.764 17.212,26.590 17.313,26.515 C 17.413,26.441 17.588,26.467 17.662,26.568 C 17.737,26.668 17.710,26.843 17.610,26.918 C 17.509,26.992 17.334,26.965 17.260,26.865 z"/>
+<path stroke="#59D48F" fill="#59D48F" stroke-width="0.400"  d="M 18.570,12.767 C 18.635,12.661 18.808,12.620 18.914,12.686 C 19.020,12.752 19.060,12.924 18.994,13.031 C 18.928,13.137 18.756,13.177 18.650,13.111 C 18.544,13.045 18.504,12.873 18.570,12.767 z"/>
+</g>
+</svg>

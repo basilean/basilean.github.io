@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andres Basile"
+		],
+		"last-updated": "2019-11-16",
+		"locale": "cn"
+	},
+	"page_title": "Basile",
+	"us_title": "我们",
+        "us_tux_graduation": "我们是一支专业团队，拥有超过20年的信息学和电子学经验。",
+        "us_tux_surgeon": "我们设计，生产和实施开放式硬件和软件。",
+        "us_tux_soldier": "我们根据行业的高标准采用了强有力的先锋实践。",
+        "us_tux_nurse": "我们在整个生命周期内为我们的实施提供支持。",
+        "us_tux_santa": "我们为您的业务提供最佳选择，而无需额外费用。",
+	"support_title": "技术支援",
+	"deploy_title": "实作",
+	"deploy_1": "独立\n\n1. 公有云（互联网）\n\n",
+	"deploy_2": "小本生意\n\n1. 公有云（互联网）\n\n2. 私有云（提供者）\n.2a. 云服务器\n\n",
+	"deploy_3": "中型企业\n\n1. 公有云（互联网）\n\n2. 私有云（提供者）\n.2a. 云服务器\n\n3. VLAN 云（拥有）\n.3a. 互联网\n.3b. 路由器/交换机\n.3c. 本地服务器\n.3d. 客户端机器",
+	"service_title": "服务",
+        "service_1": "GNU/Linux\n\n我们的解决方案根据体系结构运行在三个主要操作系统上。",
+        "service_2": "VLAN 云\n\n完全控制您的本地网络，然后通过Internet将它们合并到一个自有的安全云中。",
+	"support_1": "技术-每月订阅",
+	"support_2": "开发-小时/共享",
+	"support_3": "咨询-小时"
+}

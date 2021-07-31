@@ -1,1 +1,24 @@
-Hello World
+<!--
+  Andres Basile
+  GNU/GPL v3
+
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="basile.css">
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.7/jquery.i18n.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.7/jquery.i18n.messagestore.min.js "></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.7/jquery.i18n.fallbacks.min.js"></script>
+        <script type="text/javascript" src="basile.js"></script>
+    </head>
+    <body>
+        <script>
+            $(document).ready(function(){
+                basile = new Basile("basile.json")
+            });
+        </script>
+    </body>
+</html>
